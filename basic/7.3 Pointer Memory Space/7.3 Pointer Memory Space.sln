@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.3 Pointer Memory Space", "7.3 Pointer Memory Space\7.3 Pointer Memory Space.vcxproj", "{EED1E1BE-B0FF-4CBC-9BE1-F11FCDBB8749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EED1E1BE-B0FF-4CBC-9BE1-F11FCDBB8749}.Debug|x64.ActiveCfg = Debug|x64
+		{EED1E1BE-B0FF-4CBC-9BE1-F11FCDBB8749}.Debug|x64.Build.0 = Debug|x64
+		{EED1E1BE-B0FF-4CBC-9BE1-F11FCDBB8749}.Debug|x86.ActiveCfg = Debug|Win32
+		{EED1E1BE-B0FF-4CBC-9BE1-F11FCDBB8749}.Debug|x86.Build.0 = Debug|Win32
+		{EED1E1BE-B0FF-4CBC-9BE1-F11FCDBB8749}.Release|x64.ActiveCfg = Release|x64
+		{EED1E1BE-B0FF-4CBC-9BE1-F11FCDBB8749}.Release|x64.Build.0 = Release|x64
+		{EED1E1BE-B0FF-4CBC-9BE1-F11FCDBB8749}.Release|x86.ActiveCfg = Release|Win32
+		{EED1E1BE-B0FF-4CBC-9BE1-F11FCDBB8749}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {789CCC58-0459-4B13-A6F4-954A0B810E06}
+	EndGlobalSection
+EndGlobal
